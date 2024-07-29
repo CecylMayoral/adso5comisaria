@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "616984091277",
+    "project_id": "adso5comisaria",
+    "storage_bucket": "adso5comisaria.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616984091277:android:492e305d0a6f3f80ce20c4",
+        "android_client_info": {
+          "package_name": "com.example.projectadso5comisaria"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_40nBgFlpPUqDKcC8C_rSsU_SE4UfNnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
